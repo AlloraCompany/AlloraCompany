@@ -6,5 +6,5 @@ Somos uma agência de marketing full service, cobrindo todas as necessidades de 
 
 ---
 
-* 🌐 [Nosso Site](https://www.alloracompany.com/)
-* 💼 [LinkedIn](https://br.linkedin.com/company/alloracompany)
+* 🧡[Nosso Site](https://www.alloracompany.com/)
+* 🧡 [LinkedIn](https://br.linkedin.com/company/alloracompany)
